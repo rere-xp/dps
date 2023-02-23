@@ -1,0 +1,25 @@
+{
+  "name": "yono",
+  "version": "1.0.0",
+  "description": "Hanya untuk bersenang-senang",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ahok",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.24.0",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "pino": "^7.0.5",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "urlencode": "^1.1.0"
+  }
+}
